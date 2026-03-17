@@ -40,7 +40,7 @@ It allows users to interact with databases without writing SQL manually.
 
 ## ⚙️ How to Run
 
-```bash
+
 Future Improvements
 
 Add web UI
@@ -68,8 +68,57 @@ Support complex databases
 
 Your project runs in:
 
-```bash
+
 python app.py
 pip install openai python-dotenv
 python database.py
 python app.py
+
+---
+
+# ⏱️ After this
+
+1. Click **Commit changes**
+2. Wait 10–20 seconds
+3. Refresh your page
+
+👉 Now your site will look like a **proper portfolio page**
+
+---
+
+# 💡 Important insight
+
+Real Text-to-SQL projects usually show:
+- clear explanation  
+- features  
+- examples :contentReference[oaicite:1]{index=1}  
+
+👉 That’s exactly what we’re adding.
+
+---
+
+# ⭐ Final answer
+
+👉 Your link is **working**  
+👉 But currently looks **empty**  
+👉 After README update → it becomes **resume-level**
+
+---
+
+# 🚀 My final verdict for submission
+
+👉 After fixing README:
+
+✅ YES — ready to submit  
+✅ YES — good for IIIT-H  
+✅ YES — shows AI understanding  
+
+---
+
+If you want last step (high impact 🔥):
+
+👉 I can write your **final resume section + 30-sec explanation**
+
+Just say 👍
+::contentReference[oaicite:2]{index=2}
+```bash
